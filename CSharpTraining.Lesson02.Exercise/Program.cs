@@ -1,0 +1,2 @@
+﻿// Declare a variable named * quote* and initialize this variable with a string that is your favorite quote.Pass this 
+// variable as a parameter to the *System.Console.WriteLine* method.  Run the project by hitting the *F5* key.
